@@ -1,0 +1,262 @@
+.mycomp {
+  font-family: 'Ubuntu', cursive;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #07456f;
+  padding-left: 50px;
+}
+
+.othernav {
+  font-family: 'Ubuntu', cursive;
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: #07456f;
+  padding-right: 50px;
+}
+
+.uppbar {
+  font-family: Ubuntu;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #07456f;
+  text-align: center;
+  background-color: white;
+  text-shadow: 2px 2px 8px #9c297f;
+}
+
+.clocktop {
+  position: absolute;
+  float: left;
+  display: inline;
+}
+
+.quoteline {
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  padding: 18% 3%;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.bg {
+  /* The image used */
+  background-image: url(http://www.baltana.com/files/wallpapers-3/Stockholm-HD-Desktop-Wallpaper-09384.jpg);
+  /* background-image: url("C:\Ravi_HTML\atom\Bootstrap\ASN Transport\Images\Stockholm-HD.jpg"); */
+  /* Full height */
+  height: 30%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Contact {
+  text-align: center;
+  color: #3a0088;
+  font-weight: bold;
+  font-family: Ubuntu;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+.bg-contact {
+  background-image: url(../images/contact-us4.jpg);
+  opacity: 1;
+  /* background-color: #cccccc; */
+  height: 80%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myquote {
+  padding-top: 33%;
+}
+
+.contactform {
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  color: #3a0088;
+  font-weight: bold;
+  font-family: Ubuntu;
+  font-size: 1rem;
+}
+
+.bookingform {
+  position: absolute;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #3a0088;
+  font-weight: bold;
+  font-family: Ubuntu;
+  font-size: 1rem;
+}
+
+.row {
+  background-color: #f4f3f3;
+  border-radius: 10px;
+  border: 1px solid;
+  opacity: 0.8;
+  padding-top: 2%;
+  border-style: solid;
+}
+
+.price-table {
+  text-align: left;
+  border: 1px solid;
+  border-color: black;
+  width: 50%;
+  margin: 2% 23%;
+}
+
+.rates-title {
+  text-align: center;
+  font-family: Ubuntu;
+  line-height: 1.5;
+  color: #393e46;
+  padding-top: 1%;
+}
+
+.Jobs-title {
+  text-align: center;
+  font-family: Ubuntu;
+  line-height: 1.5;
+  color: #b55400;
+  padding-top: 1%;
+}
+
+.tableto {
+  width: 20%;
+}
+
+.tablep {
+  text-align: center;
+}
+
+thead {
+  background-color: #B1BED5;
+  border: 1px solid;
+}
+
+th {
+  border: 1px solid;
+}
+
+tr {
+  border: 1px solid;
+}
+
+td {
+  border: 1px solid;
+}
+
+.Jobsform {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #3a0088;
+  font-weight: bold;
+  font-family: Ubuntu;
+  font-size: 1.5rem;
+}
+
+.mynav {
+  padding-left: 45px;
+  padding-right: 40px;
+}
+
+#navfooter {
+  color: #3a0088;
+}
+
+.submit-inde {
+  padding-left: 20px;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: 260px;
+  margin-right: 0;
+  border-right-width: 20px;
+  border-radius: 50%;
+}
+
+.cont-inde {
+  margin-bottom: 10px;
+  margin-top: 16px;
+}
+
+.contme {
+  margin-top: 18px;
+  opacity: 1;
+}
+
+.contact {
+  margin: 0;
+}
+
+#Specialoffers {
+  text-align: center;
+  background-color: #eeeeee;
+  color: Black;
+  line-height: 1.5rem;
+  font-family: "Nunito";
+  font-weight: bolder;
+  padding-top: 0%;
+  padding-bottom: 10%;
+}
+
+.Students-image {
+  width: 500px;
+  height: 500px;
+  border-radius: 100%px;
+  padding: 10px;
+}
+
+.Students-offers {
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+  font-weight: bold;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+}
+
+.contl {
+  color: black;
+}
+
+.Cards {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 300px;
+}
+
+.card-group {
+  padding-top: 5%;
+  padding-right: 20%;
+  padding-left: 20%;
+}
